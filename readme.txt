@@ -34,3 +34,8 @@ PS. Если вышла ошибка Permission denied (publickey)
    
 Синхронизация между удаленным репозиторием и локальным:
 1. $ git push -u First_Project master  # или main ## -u ТОЛЬКО В ПЕРВЫЙ РАЗ
+
+
+Полезные команды:
+1. git log
+2. git log --oneline сокращенный хэш
